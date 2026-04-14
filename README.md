@@ -139,7 +139,7 @@ const phamQuocAnh: Developer = {
 </a>
 &nbsp;
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-your--email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Gmail-quocanh82209%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
 </a>
 &nbsp;
 <a href="https://github.com/anhanh-ui">
@@ -172,13 +172,4 @@ const phamQuocAnh: Developer = {
 
 <br/>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+star+my+repos+😊;Let's+connect+and+build+together+🚀" alt="Footer typing" />
-
-<br/>
-
-<!-- Animated waving footer -->
-<img src="https://inkythuatso.com/uploads/thumbnails/800/2023/01/anh-hacker-ngau-cuc-chat-1-13-12-09-51.jpg" width="160" />
-
-</div>
