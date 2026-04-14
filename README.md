@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Phạm%20Quốc%20Anh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=anhanh-ui%20%7C%20Software%20Developer%20%7C%20.NET%20%26%20TypeScript&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -10,8 +9,7 @@
 
 <br/><br/>
 
-<!-- Typing SVG animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Phạm+Quốc+Anh+👋;anhanh-ui+on+GitHub+🔥;.NET+%26+TypeScript+Developer+💻;3rd+Semester+Student+🎓;Building+cool+things+every+day+🚀;Always+learning%2C+always+coding+⚡" alt="Typing SVG" />
+
 
 <br/><br/>
 
@@ -88,9 +86,7 @@ const phamQuocAnh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anhanh-ui&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhanh-ui&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
+
 
 <br/>
 
@@ -104,7 +100,7 @@ const phamQuocAnh: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anhanh-ui&theme=onestar&no-frame=true&column=7&margin-w=8" />
+<img src="https://inkythuatso.com/uploads/thumbnails/800/2023/01/anh-hacker-ngau-cuc-chat-1-13-12-09-51.jpg" width="160" />
 
 </div>
 
@@ -210,6 +206,6 @@ jobs:
 <br/>
 
 <!-- Animated waving footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%](https://inkythuatso.com/uploads/thumbnails/800/2023/01/anh-hacker-ngau-cuc-chat-1-13-12-09-51.jpg" width="160)" />
 
 </div>
